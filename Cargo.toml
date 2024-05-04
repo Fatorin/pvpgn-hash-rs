@@ -1,0 +1,10 @@
+[package]
+name = "pvpgn-hash-rs"
+version = "1.0.0"
+authors = ["Fatorin <sksly789@gmail.com>"]
+description = "Battle.net v1.0 hash algorithm implementations on rust."
+license = "MIT"
+edition = "2021"
+
+[dependencies]
+byteorder = "1.5.0"
